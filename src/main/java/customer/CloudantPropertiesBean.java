@@ -51,3 +51,4 @@ public class CloudantPropertiesBean {
                 this.database = database;
         }
 }
+
