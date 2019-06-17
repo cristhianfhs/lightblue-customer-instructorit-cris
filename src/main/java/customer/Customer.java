@@ -43,7 +43,7 @@ public class Customer {
 	public void setUsername(String username) {
 		this.username = username;
 	}
-	
+//Comentario	
 	public String getPassword() {
 		return password;
 	}
